@@ -3,7 +3,7 @@ title: Surveillance
 ---
 Sep 28 
 : [Surveillance (Policy and Law)](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+  : **Discussion**{: .label .label-green }
 : **Discussion papers**:
     -  [Smith V. Maryland](https://caselaw.findlaw.com/court/us-supreme-court/442/735.html)
     -  [The System of Foreign Intelligence Surveillance Law](http://peterswire.net/wp-content/uploads/Swire-the-System-of-Foreign-Intelligence-Surveillance-Law.pdf), _Peter Swire_, GWU Law Review

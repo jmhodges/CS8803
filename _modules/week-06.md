@@ -54,11 +54,9 @@ Nov 28
 
 Nov 30  
 : [Project Presentations (Day 1)](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
 
 Dec 5  
 : [Project Presentations (Day 2)](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
 
 : **DUE: Project Final Paper**{: .label .label-red} 
 

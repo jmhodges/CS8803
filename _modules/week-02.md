@@ -12,7 +12,7 @@ Aug 29
 
 Aug 31
 : [Economics in Security & Privacy](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+  : **Discussion**{: .label .label-green }
 : **Discussion papers**:
     -  [So long and no thanks for all the externalities](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/SoLongAndNoThanks.pdf), _Cormac Herley_, NSPW'09
     -  [The Economics of Information Security](https://www.cl.cam.ac.uk/~rja14/Papers/sciecon2.pdf), _Ross Anderson and Tyler Moore_, Science'06
@@ -24,7 +24,7 @@ Aug 31
 
 Sep 5
 : [Transparency & Accountability: Labeling Regimes](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+  : **Discussion**{: .label .label-green }
 : **Discussion papers**:
     -  [A “Nutrition Label” for Privacy](http://cups.cs.cmu.edu/soups/2009/proceedings/a4-kelley.pdf), _Patrick Gage Kelley, Joanna Bresee, Lorrie Faith Cranor, Robert W. Reeder_, SOUPS'09
     -  [FTC's Consent Decree Complaint on Zoom](https://www.ftc.gov/system/files/documents/cases/1923167zoomcomplaint_0.pdf) 
@@ -41,6 +41,8 @@ Measuring Adoption and Error Rate](https://ieeexplore.ieee.org/document/8835212)
     - [SoK: SSL and HTTPS:
 Revisiting past challenges and evaluating certificate trust model enhancements](https://www.ieee-security.org/TC/SP2013/papers/4977a511.pdf), _Jeremy Clark and Paul C. van Oorschot_
 
+   **Guest Lecture TBD**
+
 
 Sep 12
 : [Barriers to Research – Increasing Information Asymmetry](#)
@@ -52,3 +54,4 @@ Sep 12
 : **Optional**:
     - If you ever feel bad about reviewer #2, please read the Internet Voting company [Voatz's amicus brief in Van Buren](https://www.supremecourt.gov/DocketPDF/19/19-783/153062/20200903122434600_Voatz%20Amicus%20Brief.pdf). Your reviewer may be bad, but are they "_complain about your research to the supreme court_" bad?
 
+: **Guest Lecture TBD**
