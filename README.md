@@ -54,4 +54,8 @@ Grading is broken down as follows:
 * [10%] Class Participation
 * [40%] Final Project 
 
+{: .important-title }
+> Important Note
+>
+> This syllabus is a living document and will be updated frequently with new information and speakers. Please check back often, and pay special attention to the [schedule page](schedule.md)!
 
