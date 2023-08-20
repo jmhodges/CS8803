@@ -19,6 +19,7 @@ Aug 31
 
 : **Optional**:
     - [What is Privacy Worth?](https://www.journals.uchicago.edu/doi/abs/10.1086/671754), _Acquisti et. al_
+ **DUE: Group selection and short proposal document**{: .label .label-red}
 
 
 Sep 5
