@@ -1,39 +1,67 @@
 ---
 layout: home
-title: Just the Class
-nav_exclude: true
+title: Introduction
+nav_order: 1
+nav_exclude: false 
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Security Privacy and Democracy
 ---
 
-# Just the Class
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+# CS8803: Security, Privacy, & Democracy
+{: .fs-9 }
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+Georgia Tech, Fall 2023
+{: .fs-5 .fw-300 }
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+---
 
-## Getting Started
 
-Getting started with Just the Class is simple.
+| Instructor       | Time                                  | Location                      |
+|:----------------:|:-------------------------------------:|:-----------------------------:|
+|Michael A. Specter| Tuesday & Thursday, 5:00 pm - 6:15 pm | College of Computing Room #52 |
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+# Summary
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+**Security, Privacy, and Democracy** is an interdisciplinary research seminar with an emphasis on topics critical to a functioning democracy – voting systems, privacy, misinformation, censorship, and free and open communication. 
 
-### Local development environment
+We will cover both current and foundational research in applied cryptography and systems security, as well as in economics, policy, and law. Invited speakers from industry, government, and civil society organizations will offer guest lectures. Students will read and discuss published research papers, present research findings, and complete an original research project.
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+Though there are no official prerequisites for this class, students are expected to be graduate students or advanced undergraduates interested in research in the area. **Papers may require mathematical maturity, and willingness to parse and study works from other disciplines**
+
+# Course Outline
+## Paper Q&A
+**For each paper assigned, due at midnight EST the day before each class** are:
+1. A 1-2 paragraph summary of the paper, and 
+2. two discussion questions for the paper.
+
+Paper summaries should cover both the main contribution of the paper and the paper’s relative strengths and weaknesses. Depending on the week, there may be an extra paper-specific question, so be sure to check the submission site!
+
+## Weekly Presentations
+Every week, a team of two will be assigned 20 minutes to present relevant research and policy developments that have come out since the paper was released. Students presenting are exempt from that week’s Paper Q&A.
+
+## Project
+Students will form teams of 2-3 to do a research project centered around the topics covered in class. Teams will provide both a written final report and presentation of the work during the final weeks of the class. There is no page limit for the work, although a rough estimate might be 5-15 pages for a technical paper, formatted using the class template. Exemplar student works will be published online on the course website for future class’s reference.
+
+Students will be expected to provide an email to the staff in the second week declaring their group, and schedule a meeting with the instructor during the third week to discuss the project.
+
+Project presentations occur during the last two days of class (depending on enrollment).
+
+## Grading
+Grading is broken down as follows:
+* [20%] Paper Presentation
+* [30%] Paper Q&A  
+* [50%] Final paper or project 
+
+## Tips for writing and presenting
+All papers must be formatted in latex, using the following class template: <Link to the template for the class>
+
+There are a number of fantastic writing resources available. Personally, I found Strunk and White’s “The Elements of Style” to be an excellent resource, and required only an afternoon of reading. Seriously, it’ll change your life.
+
+For presenting, I encourage all who will listen to watch Patrick Winston’s legendary [How To Speak lecture](https://www.youtube.com/watch?v=Unzc731iCUY). A [text adaptation](https://mitpress.mit.edu/9780262360401/make-it-clear/) is available as well, which goes further into depth on many of the topics discussed.
+
+A useful Latex tutorial: https://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/
+
