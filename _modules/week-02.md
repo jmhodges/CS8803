@@ -49,5 +49,5 @@ Sep 12
     -  [The EFF's Amicus Brief in VanBuren v. United States](https://www.eff.org/files/2020/07/08/19-783_eff_security_researchers_amici_brief_.pdf) 
 
 : **Optional**:
-    - If you ever feel bad about reviewer #2, please read the Internet Voting company [Voatz's amicus brief in Van Buren](https://www.supremecourt.gov/DocketPDF/19/19-783/153062/20200903122434600_Voatz%20Amicus%20Brief.pdf). Your reviewer may be bad, but are they _complain about your research to the supreme court_ bad?
+    - If you ever feel bad about reviewer #2, please read the Internet Voting company [Voatz's amicus brief in Van Buren](https://www.supremecourt.gov/DocketPDF/19/19-783/153062/20200903122434600_Voatz%20Amicus%20Brief.pdf). Your reviewer may be bad, but are they "_complain about your research to the supreme court_" bad?
 
