@@ -50,8 +50,7 @@ Nov 28
 : **Discussion papers**:
     -  [The PACT protocol specification](https://people.csail.mit.edu/rivest/pubs/RACCS-2020-PACT.pdf), _Ron Rivest et. al_
     -  **Second reading TBD**
-
-: **Guest Speaker: Stephan Stephan Somogyi**
+: **Guest Speaker: Stephan Somogyi**
 
 Nov 30  
 : [Project Presentations (Day 1)](#)
