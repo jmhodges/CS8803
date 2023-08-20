@@ -6,7 +6,7 @@ Aug 22
   : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
 : **Discussion papers**:
     -  [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf), _S. Keshav_
-    -  [How to Read a Legal Opinion](http://www.greenbag.org/v11n1/v11n1_kerr.pdf), _Orin S. Kerr_, The Green Bag
+    -  [How to Read a Legal Opinion](https://perma.cc/YT68-3P8F), _Orin S. Kerr_, The Green Bag
     -  [This World of Ours](https://www.usenix.org/system/files/1401_08-12_mickens.pdf), _James Mickens_, Usenix login;
 
 Aug 24
