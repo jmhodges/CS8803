@@ -8,9 +8,6 @@ seo:
   type: Course
   name: Security Privacy and Democracy
 ---
-
-
-
 # CS8803: Security, Privacy, & Democracy
 {: .fs-9 }
 
@@ -33,15 +30,15 @@ We will cover both current and foundational research in applied cryptography and
 Though there are no official prerequisites for this class, students are expected to be graduate students or advanced undergraduates interested in research in the area. **Papers may require mathematical maturity, and willingness to parse and study works from other disciplines**
 
 # Course Outline
-## Paper Q&A
-**For each paper assigned, due at midnight EST the day before each class** are:
+## Paper Summaries & Discussion Questions 
+Every lesson will cover two papers on a specific subject. **For each paper assigned, due at midnight EST the day before each class** are:
 1. A 1-2 paragraph summary of the paper, and 
 2. two discussion questions for the paper.
 
-Paper summaries should cover both the main contribution of the paper and the paper’s relative strengths and weaknesses. Depending on the week, there may be an extra paper-specific question, so be sure to check the submission site!
+Paper summaries should cover both the main contribution of the paper, the paper’s strengths, and --importantly-- its weaknesses. Discussion questions will be collated and covered in class. Summaries and discussion questions will be graded pass/fail.
 
 ## Weekly Presentations
-Every week, a team of two will be assigned 20 minutes to present relevant research and policy developments that have come out since the paper was released. Students presenting are exempt from that week’s Paper Q&A.
+Every week, a team of two will be assigned 20 minutes to present relevant research and policy developments that have come out since the assigned papers were published. Students presenting are exempt from that class’s Paper Summaries and Discussion Questions.
 
 ## Project
 Students will form teams of 2-3 to do a research project centered around the topics covered in class. Teams will provide both a written final report and presentation of the work during the final weeks of the class. There is no page limit for the work, although a rough estimate might be 5-15 pages for a technical paper, formatted using the class template. Exemplar student works will be published online on the course website for future class’s reference.

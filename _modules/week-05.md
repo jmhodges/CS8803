@@ -15,22 +15,22 @@ Oct 26
 : [The Crypto Wars -- History](#)
   : **Discussion**{: .label .label-green }
 : **Discussion papers**:
-    -  [Keys Under Doormats](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf), _S. Keshav_
-    -  [Bugs in Our Pockets](http://www.greenbag.org/v11n1/v11n1_kerr.pdf), _Orin S. Kerr_, The Green Bag
+    -  [Keys under Doormats: Mandating Insecurity by Requiring Government Access to All Data and Communications](https://dspace.mit.edu/bitstream/handle/1721.1/97690/MIT-CSAIL-TR-2015-026.pdf), _Hal Abelson, Ross Anderson, Steven M. Bellovin, Josh Benaloh, Matt Blaze, Whitfield Diffie, John Gilmore, et al._, Oxford Journal of Cybersecurity
+    -  [Bugs in Our Pockets: The Risks of Client-Side Scanning](https://arxiv.org/pdf/2110.07450.pdf), _Hal Abelson, Ross Anderson, Steven M. Bellovin, Josh Benaloh, Matt Blaze, Jon Callas, Whitfield Diffie et. al_
 
 Oct 31 
 : [Cryptographic Proposals](#)
   : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
 : **Discussion papers**:
-    -  [Apple's PSI Proposal](http://www.greenbag.org/v11n1/v11n1_kerr.pdf), _Orin S. Kerr_, The Green Bag
-    -  [Google private blocking](https://www.usenix.org/system/files/1401_08-12_mickens.pdf), _James Mickens_, Usenix login;
+    -  [Apple's PSI Proposal](https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf), _Abhishek Bhowmick, Dan Boneh, Steve Myers, Kunal Talwar, and Karl Tarbe_
+    -  [Robust, privacy-preserving, transparent, and auditable on-device blocklisting](https://arxiv.org/pdf/2304.02810.pdf) _Kurt Thomas, Sarah Meiklejohn, Michael A. Specter, Xiang Wang, Xavier Llorà, Stephan Somogyi, and  David Kleidermacher_
 
 Nov 1 
 : [Ongoing Policy Debate](#)
   : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
 : **Discussion papers**:
-    -  [UK Online Safety Bill](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf), _S. Keshav_
-    -  [EARN-IT Bill](http://www.greenbag.org/v11n1/v11n1_kerr.pdf), _Orin S. Kerr_, The Green Bag
+    -  [Internet Impact Brief: End-to-end Encryption under the UK’s Draft Online Safety Bill](https://www.internetsociety.org/resources/doc/2022/iib-encryption-uk-online-safety-bill/), _Callum Voge and Robin Wilton_, Technical Report from ISOC
+    -  [EARN-IT Bill](https://www.congress.gov/bill/118th-congress/senate-bill/1207/text), _Lindsey Graham_
 
 Nov 7 
 : [Security & Privacy for Underrepresented Groups](#)
@@ -57,22 +57,21 @@ Nov 14
 : [Censorship (Technology)](#)
   : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
 : **Discussion papers**:
-    -  [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf), _S. Keshav_
-    -  [How to Read a Legal Opinion](http://www.greenbag.org/v11n1/v11n1_kerr.pdf), _Orin S. Kerr_, The Green Bag
-    -  [This World of Ours](https://www.usenix.org/system/files/1401_08-12_mickens.pdf), _James Mickens_, Usenix login;
+    -  [A Large-scale Investigation into Geodifferences in Mobile Apps](https://www.usenix.org/system/files/sec22-kumar.pdf), _Renuka Kumar, Apurva Virkud, Ram Sundara Raman, Atul Prakash, and Roya Ensafi_, USENIX Security'22
+    -  [Internet Censorship in Iran: A First Look](https://www.usenix.org/system/files/conference/foci13/foci13-aryan.pdf), _Simurgh Aryan, Homa Aryan, J. Alex Halderman_, FOCI'13
 
 
 Nov 16 
-: [Usability of Cryptography](#)
+: [Cryptography Usability](#)
   : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
 : **Discussion papers**:
-    -  [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf), _S. Keshav_
-    -  [How to Read a Legal Opinion](http://www.greenbag.org/v11n1/v11n1_kerr.pdf), _Orin S. Kerr_, The Green Bag
-    -  [This World of Ours](https://www.usenix.org/system/files/1401_08-12_mickens.pdf), _James Mickens_, Usenix login;
+    -  [Why Johnny Can’t Encrypt](https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten_html/index.html), _A Whitten, JD Tygar_, USENIX Security'99
+    - [Rethinking Connection Security Indicators](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-porter-felt.pdf), _Adrienne Porter Felt, Robert W. Reeder, Alex Ainslie, Helen Harris et al._, SOUPS'16
 
 
 Nov 21 
-: **No Class, day before holiday break**
+: **TBD, day before holiday break, likely a simple lecture**
+
 Nov 23 
 : **Official school holiday**
 
@@ -80,8 +79,8 @@ Nov 28
 : [Case Study: Exposure Notification](#)
   : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
 : **Discussion papers**:
-    -  [How to Read a Legal Opinion](http://www.greenbag.org/v11n1/v11n1_kerr.pdf), _Orin S. Kerr_, The Green Bag
-    -  [This World of Ours](https://www.usenix.org/system/files/1401_08-12_mickens.pdf), _James Mickens_, Usenix login;
+    -  [The PACT protocol specification](https://people.csail.mit.edu/rivest/pubs/RACCS-2020-PACT.pdf), _Ron Rivest et. al_
+    -  **Second reading TBD **
 
 : **Guest Speaker: Stephan Stephan Somogyi**
 
