@@ -31,7 +31,7 @@ Sep 5
 
 Sep 7
 : [Transparency & Accountability: Cryptography](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+  : **Lecture**{: .label .label-purple } 
 : **Discussion papers**:
     -  [Efficient Data Structures for Tamper-Evident Logging](https://static.usenix.org/event/sec09/tech/full_papers/crosby.pdf), _Scott A. Crosby and Dan S. Wallach_, USENIX Secuirty'09
     -  [Does Certificate Transparency Break the Web?
@@ -41,12 +41,12 @@ Measuring Adoption and Error Rate](https://ieeexplore.ieee.org/document/8835212)
     - [SoK: SSL and HTTPS:
 Revisiting past challenges and evaluating certificate trust model enhancements](https://www.ieee-security.org/TC/SP2013/papers/4977a511.pdf), _Jeremy Clark and Paul C. van Oorschot_
 
-   **Guest Lecture TBD**
+   **Guest Lecture: Ryan Hurst, CEO, Peculiar Ventures**
 
 
 Sep 12
 : [Barriers to Research – Increasing Information Asymmetry](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+  : **Lecture**{: .label .label-purple } 
 : **Discussion papers**:
     -  [A Researcher’s Guide to Some Legal Risks of Security Research](https://perma.cc/C88T-HY66?type=standard), _Sunoo Park & Kendra Albert_
     -  [The EFF's Amicus Brief in VanBuren v. United States](https://www.eff.org/files/2020/07/08/19-783_eff_security_researchers_amici_brief_.pdf) 
@@ -54,4 +54,4 @@ Sep 12
 : **Optional**:
     - If you ever feel bad about reviewer #2, please read the Internet Voting company [Voatz's amicus brief in Van Buren](https://www.supremecourt.gov/DocketPDF/19/19-783/153062/20200903122434600_Voatz%20Amicus%20Brief.pdf). Your reviewer may be bad, but are they "_complain about your research to the supreme court_" bad?
 
-: **Guest Lecture TBD**
+: **Guest Lecture: Andy Sellars, director of the MIT/BU Law Clinic**

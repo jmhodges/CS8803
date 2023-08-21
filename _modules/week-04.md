@@ -29,11 +29,11 @@ Oct 10
 
 Oct 12 
 : [Attacks on Anti-Surveillance Tools](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+  : **Lecture**{: .label .label-purple } 
 : **Discussion papers**:
     -  [Circuit Fingerprinting Attacks: Passive Deanonymization of Tor Hidden Services](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-kwon.pdf), _Albert Kwon et. al._, USENIX Security'15
     -  [The Parrot is Dead](https://ieeexplore.ieee.org/abstract/document/6547102?casa_token=JLqV4E2q2SQAAAAA:TQNA7QAskhu7jV18kyu1swVRxW6u2Xt_9l5MZJxiBOGafbHClu-pcKl7fQSEBvBG5WAcp0it), _Amir Houmansadr; Chad Brubaker; Vitaly Shmatikov_, IEEE S&P'15;
-: **Guest Speaker: Chad Brubaker**
+: **Guest Speaker: Chad Brubaker, Boat Capitan**
 
 Oct 17 
 : [Messaging Deniability](#)

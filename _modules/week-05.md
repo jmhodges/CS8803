@@ -31,4 +31,4 @@ Nov 1
 : **Discussion papers**:
     -  [Internet Impact Brief: End-to-end Encryption under the UK’s Draft Online Safety Bill](https://www.internetsociety.org/resources/doc/2022/iib-encryption-uk-online-safety-bill/), _Callum Voge and Robin Wilton_, Technical Report from ISOC
     -  [EARN-IT Bill](https://www.congress.gov/bill/118th-congress/senate-bill/1207/text), _Lindsey Graham_
-
+: **Guest Speaker: Jeff Rothblum, Senior Professional Staff Member, Homeland Security and Governmental Affairs Committee, US Senate**

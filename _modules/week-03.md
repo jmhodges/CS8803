@@ -11,19 +11,20 @@ Sep 14
 
 Sep 19
 : [How Can We Verify an Election Outcome?](#)
-  : **Discussion**{: .label .label-green }
+  : **Lecture**{: .label .label-purple } 
 : **Discussion papers**:
     - [Public Evidence from Secret Ballots](https://arxiv.org/pdf/1707.08619.pdf), _M Bernhard et. al_, E-Vote-ID'17
     - [A Gentle Introduction to Risk-Limiting Audits](https://www.stat.berkeley.edu/~stark/Preprints/gentle12.pdf), _Lindeman & Stark_, IEEE Security & Privacy'12 
+: **Guest Lecture: Matt Bernhard**
 
 Sep 21
 : [Usability Failures in Voting](#)
-  :  **Discussion**{: .label .label-green }
+  : **Lecture**{: .label .label-purple } 
 : **Discussion papers**:
     -  [Can Voters Detect Malicious Manipulation
 of Ballot Marking Devices?](https://par.nsf.gov/servlets/purl/10222852), _Bernhard et. al_, IEEE S&P'20
     -  [Ballot-Marking Devices (BMDs) Cannot Assure the Will of the Voters](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3375755), _Appel, Demillo, Stark_ 
-
+: **Guest Lecture: Rich Demillo**
 
 Sep 26 
 : [Internet Voting](#)
