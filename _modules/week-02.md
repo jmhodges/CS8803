@@ -3,7 +3,7 @@ title: Security, Privacy, and Economics
 ---
 Aug 29
 : [Economics – Information Asymmetry](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+  : **Discussion**{: .label .label-green }
 : **Discussion papers**:
     -  [The market for “lemons”: Quality uncertainty and the market mechanism](https://econweb.ucsd.edu/~atimmerm/174/akerlof.pdf ), _George A. Akerlof_
     -  [On Doctors, Mechanics, and Computer Specialists: The Economics of Credence Goods](https://pubs.aeaweb.org/doi/pdfplus/10.1257/002205106776162717), _Dulleck and Kirshbaumer_, Journal of Economic Literature
@@ -40,6 +40,7 @@ Measuring Adoption and Error Rate](https://ieeexplore.ieee.org/document/8835212)
 : **Optional**:
     - [SoK: SSL and HTTPS:
 Revisiting past challenges and evaluating certificate trust model enhancements](https://www.ieee-security.org/TC/SP2013/papers/4977a511.pdf), _Jeremy Clark and Paul C. van Oorschot_
+    - [Google Binary Transparency](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)
 
    **Guest Lecture: Ryan Hurst, CEO, Peculiar Ventures**
 
@@ -55,3 +56,4 @@ Sep 12
     - If you ever feel bad about reviewer #2, please read the Internet Voting company [Voatz's amicus brief in Van Buren](https://www.supremecourt.gov/DocketPDF/19/19-783/153062/20200903122434600_Voatz%20Amicus%20Brief.pdf). Your reviewer may be bad, but are they "_complain about your research to the supreme court_" bad?
 
 : **Guest Lecture: Andy Sellars, director of the MIT/BU Law Clinic**
+ **DUE: Groups must schedule a 1-on-1 with course staff**{: .label .label-red}

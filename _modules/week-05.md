@@ -13,10 +13,11 @@ Abuse Imagery on the Internet](https://storage.googleapis.com/pub-tools-public-p
 
 Oct 26 
 : [The Crypto Wars -- History](#)
-  : **Discussion**{: .label .label-green }
+  : **Lecture**{: .label .label-purple } 
 : **Discussion papers**:
     -  [Keys under Doormats: Mandating Insecurity by Requiring Government Access to All Data and Communications](https://dspace.mit.edu/bitstream/handle/1721.1/97690/MIT-CSAIL-TR-2015-026.pdf), _Hal Abelson, Ross Anderson, Steven M. Bellovin, Josh Benaloh, Matt Blaze, Whitfield Diffie, John Gilmore, et al._, Oxford Journal of Cybersecurity
     -  [Bugs in Our Pockets: The Risks of Client-Side Scanning](https://arxiv.org/pdf/2110.07450.pdf), _Hal Abelson, Ross Anderson, Steven M. Bellovin, Josh Benaloh, Matt Blaze, Jon Callas, Whitfield Diffie et. al_
+: **Guest Speaker: Riana Pfefferkorn, Stanford Internet Observatory**
 
 Oct 31 
 : [Cryptographic Proposals](#)
@@ -27,7 +28,7 @@ Oct 31
 
 Nov 1 
 : [Ongoing Policy Debate](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+  : **Lecture**{: .label .label-purple }
 : **Discussion papers**:
     -  [Internet Impact Brief: End-to-end Encryption under the UK’s Draft Online Safety Bill](https://www.internetsociety.org/resources/doc/2022/iib-encryption-uk-online-safety-bill/), _Callum Voge and Robin Wilton_, Technical Report from ISOC
     -  [EARN-IT Bill](https://www.congress.gov/bill/118th-congress/senate-bill/1207/text), _Lindsey Graham_

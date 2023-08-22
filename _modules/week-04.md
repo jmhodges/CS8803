@@ -10,7 +10,7 @@ Sep 28
 
 Oct 3 
 : [Concepts of Anonymity](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+  : **Discussion**{: .label .label-green }
 : **Discussion papers**:
     -  [Robust De-anonymization of Large Datasets
 (How to Break Anonymity of the Netflix Prize Dataset)](https://arxiv.org/pdf/cs/0610105.pdf), _Arvind Narayanan and Vitaly Shmatikov_, IEEE S&P'08
@@ -19,7 +19,7 @@ Oct 3
 
 Oct 5 
 : [Anti-Surveillance Technologies](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+  :  **Discussion**{: .label .label-green }
 : **Discussion papers**:
     -  [Tor: The Second-Generation Onion Router](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf), _Roger Dingledine, Nick Mathewson, and Paul Syverson_
     -  [SOK on Secure Messaging](https://oaklandsok.github.io/papers/unger2014.pdf), _Nik Unger et al_, IEEE S&P'15;
@@ -37,15 +37,16 @@ Oct 12
 
 Oct 17 
 : [Messaging Deniability](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+  : **Lecture**{: .label .label-purple } 
 : **Discussion papers**:
     -  [Is Cryptographic Deniability Sufficient? Non-Expert Perceptions of Deniability in Secure Messaging](https://ieeexplore.ieee.org/abstract/document/10179361), _Nathan Reitinger et. al_ , IEEE S&P'23
     -  [KeyForge: Non-Attributable Email from
 Forward-Forgeable Signatures](https://www.usenix.org/system/files/sec21-specter-keyforge.pdf), _Michael A. Specter, Sunoo Park, Matthew Green_, USENIX Security'21;
+: **Guest(?) Speaker: Michael A. Specter**
 
 Oct 19 
 : [Fingerprinting & Covert Tracking](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+  : **Discussion**{: .label .label-green }
 : **Discussion papers**:
     -  [How unique is your web browser?](https://coveryourtracks.eff.org/static/browser-uniqueness.pdf), _Peter Eckersley_
     -  [The Web Never Forgets](https://securehomes.esat.kuleuven.be/~gacar/persistent/the_web_never_forgets.pdf), _Gunes Acar, Christian Eubank, Steven Englehardt, Marc Juarez Arvind Narayanan, Claudia Diaz_, ACM CCS'14

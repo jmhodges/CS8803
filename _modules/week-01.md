@@ -3,7 +3,7 @@ title: Introduction
 ---
 Aug 22
 : [Introduction](#)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+  : **Lecture**{: .label .label-purple } 
 : **Discussion papers**:
     -  [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf), _S. Keshav_
     -  [How to Read a Legal Opinion](https://perma.cc/YT68-3P8F), _Orin S. Kerr_, The Green Bag
