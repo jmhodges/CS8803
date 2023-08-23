@@ -8,6 +8,7 @@ Sep 14
 : **Discussion papers**:
     -  [Software Independence](https://people.csail.mit.edu/rivest/pubs/RW06.pdf), _Rivest & Wack_
     -  [Security analysis of the Diebold AccuVote-TS voting machine](https://www.usenix.org/legacy/event/evt07/tech/full_papers/feldman/feldman_html/), _AJ Feldman, JA Halderman, and EW Felten_, USENIX SECURITY'06
+: **Guest Lecture: Rich Demillo**
 
 Sep 19
 : [How Can We Verify an Election Outcome?](#)
@@ -24,7 +25,7 @@ Sep 21
     -  [Can Voters Detect Malicious Manipulation
 of Ballot Marking Devices?](https://par.nsf.gov/servlets/purl/10222852), _Bernhard et. al_, IEEE S&P'20
     -  [Ballot-Marking Devices (BMDs) Cannot Assure the Will of the Voters](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3375755), _Appel, Demillo, Stark_ 
-: **Guest Lecture: Rich Demillo**
+: **Guest Lecture: Ben Adida**
 
 Sep 26 
 : [Internet Voting](#)
