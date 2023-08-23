@@ -25,7 +25,7 @@ Sep 21
     -  [Can Voters Detect Malicious Manipulation
 of Ballot Marking Devices?](https://par.nsf.gov/servlets/purl/10222852), _Bernhard et. al_, IEEE S&P'20
     -  [Ballot-Marking Devices (BMDs) Cannot Assure the Will of the Voters](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3375755), _Appel, Demillo, Stark_ 
-: **Guest Lecture: Ben Adida**
+: **Guest Lecture: [Dr. Ben Adida](https://ben.adida.net/bio/), Executive Director, VotingWorks**
 
 Sep 26 
 : [Internet Voting](#)
