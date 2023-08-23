@@ -26,7 +26,7 @@ Oct 31
     -  [Apple's PSI Proposal](https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf), _Abhishek Bhowmick, Dan Boneh, Steve Myers, Kunal Talwar, and Karl Tarbe_
     -  [Robust, privacy-preserving, transparent, and auditable on-device blocklisting](https://arxiv.org/pdf/2304.02810.pdf) _Kurt Thomas, Sarah Meiklejohn, Michael A. Specter, Xiang Wang, Xavier Llorà, Stephan Somogyi, and  David Kleidermacher_
 
-Nov 1 
+Nov 2 
 : [Ongoing Policy Debate](#)
   : **Lecture**{: .label .label-purple }
 : **Discussion papers**:

@@ -1,5 +1,5 @@
 ---
-title: Crypto as a Public Good
+title: Security and Privacy in the Public Interest
 ---
 Nov 7 
 : [Security & Privacy for Underrepresented Groups](#)
