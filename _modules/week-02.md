@@ -6,6 +6,9 @@ Aug 29
   : **Discussion**{: .label .label-green }
 : **Discussion papers**:
     -  [The market for “lemons”: Quality uncertainty and the market mechanism](https://econweb.ucsd.edu/~atimmerm/174/akerlof.pdf ), _George A. Akerlof_
+    -  [Credence goods in the literature: What the past fifteen years have taught us about fraud, incentives, and the role of institutions](https://www.sciencedirect.com/science/article/pii/S2214635020300265), _Balafoutas & Kerschbamer_, Journal of Economic Literature
+
+: **Optional**:
     -  [On Doctors, Mechanics, and Computer Specialists: The Economics of Credence Goods](https://pubs.aeaweb.org/doi/pdfplus/10.1257/002205106776162717), _Dulleck and Kirshbaumer_, Journal of Economic Literature
 : **Bonus Question**
     - What kind of product, or an aspect of a product, is security?
