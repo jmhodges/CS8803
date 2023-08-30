@@ -24,11 +24,12 @@ Nov 9
 
 Nov 14 
 : [Censorship (Technology)](#)
-  : **Discussion**{: .label .label-green }
+  : **Lecture**{: .label .label-purple } 
 : **Discussion papers**:
     -  [A Large-scale Investigation into Geodifferences in Mobile Apps](https://www.usenix.org/system/files/sec22-kumar.pdf), _Renuka Kumar, Apurva Virkud, Ram Sundara Raman, Atul Prakash, and Roya Ensafi_, USENIX Security'22
     -  [Internet Censorship in Iran: A First Look](https://www.usenix.org/system/files/conference/foci13/foci13-aryan.pdf), _Simurgh Aryan, Homa Aryan, J. Alex Halderman_, FOCI'13
 
+: **Guest Lecture: [Professor Roya Ensafi](https://ensa.fi/)**
 
 Nov 16 
 : [Cryptography Usability](#)
